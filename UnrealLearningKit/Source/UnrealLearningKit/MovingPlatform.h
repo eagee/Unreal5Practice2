@@ -22,5 +22,21 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+	
+	
+	//UPROPERTY(EditAnywhere)
+	//FVector CurrentLocation;
 
+	//UPROPERTY(EditAnywhere)
+	//FVector MaxDistance = { 100.0f, 100.0f, 100.0f };
+
+	FVector StartLocation; 
+	
+	UPROPERTY(EditAnywhere, Category="Moving Platform")
+	FVector PlatformVelocity = { 0.0f, 100.0f, 0.0f };
+
+	UPROPERTY(EditAnywhere, Category="Moving Platform")
+	float MaxMoveDistance = 100.0f;
+
+	//float Direction = 1.0f;
 };

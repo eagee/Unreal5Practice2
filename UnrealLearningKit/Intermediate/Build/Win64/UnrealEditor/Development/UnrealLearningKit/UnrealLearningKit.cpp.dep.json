@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\temp\\unreallearningpractice2\\unreal5practice2\\unreallearningkit\\source\\unreallearningkit\\unreallearningkit.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\temp\\unreallearningpractice2\\unreal5practice2\\unreallearningkit\\intermediate\\build\\win64\\unreallearningkiteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\temp\\unreallearningpractice2\\unreal5practice2\\unreallearningkit\\intermediate\\build\\win64\\unrealeditor\\development\\unreallearningkit\\definitions.unreallearningkit.h",
+            "d:\\temp\\unreallearningpractice2\\unreal5practice2\\unreallearningkit\\source\\unreallearningkit\\unreallearningkit.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/temp/UnrealLearningPractice2/Unreal5Practice2/UnrealLearningKit/Content/MyStuff/Main.umap",
+				"D:/temp/UnrealLearningPractice2/Unreal5Practice2/UnrealLearningKit/Content/MyStuff/Platforms/BP_MovingPlatform.uasset",
+				"D:/temp/UnrealLearningPractice2/Unreal5Practice2/UnrealLearningKit/Content/MyStuff/Platforms/BP_PushyCube.uasset",
+				"D:/temp/UnrealLearningPractice2/Unreal5Practice2/UnrealLearningKit/Content/MyStuff/Characters/BP_ThirdPersonCharacter_Eagan.uasset",
+				"D:/temp/UnrealLearningPractice2/Unreal5Practice2/UnrealLearningKit/Content/MyStuff/BP_ThirdPersonCharacter_Eagan.uasset",
 				"D:/temp/ObstacleCourse/UnrealLearningKit/Content/MyStuff/Main.umap",
 				"D:/temp/ObstacleCourse/UnrealLearningKit/Content/MyStuff/BP_ThirdPersonCharacter_Eagan.uasset",
 				"D:/temp/ObstacleCourse/UnrealLearningKit/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
