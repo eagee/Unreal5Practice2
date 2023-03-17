@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealLearningKit",
+			"Path": "D:\\temp\\UnrealLearningPractice2\\Unreal5Practice2\\UnrealLearningKit\\Source\\UnrealLearningKit.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealLearningKitEditor",
+			"Path": "D:\\temp\\UnrealLearningPractice2\\Unreal5Practice2\\UnrealLearningKit\\Source\\UnrealLearningKitEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

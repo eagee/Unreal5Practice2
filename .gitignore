@@ -72,3 +72,24 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.pdb
+*.bin
+*.bin
+UnrealLearningKit/Intermediate/CachedAssetRegistry.bin
+UnrealLearningKit/Saved/Config/CrashReportClient/UECC-Windows-1277E58049CB0DFB09790A824FA2DF71/CrashReportClient.ini
+UnrealLearningKit/Saved/Config/CrashReportClient/UECC-Windows-93165990423D873DCEF25BAA1941878D/CrashReportClient.ini
+UnrealLearningKit/Saved/Config/CrashReportClient/UECC-Windows-BB97DD8740DF4128E7A05D88D48D9727/CrashReportClient.ini
+UnrealLearningKit/Saved/Logs/UnrealLearningKit-backup-2023.03.17-00.43.52.log
+UnrealLearningKit/Saved/Logs/UnrealLearningKit-backup-2023.03.17-01.10.18.log
+UnrealLearningKit/Saved/Logs/UnrealLearningKit_2-backup-2023.03.17-01.00.43.log
+UnrealLearningKit/Saved/Logs/UnrealLearningKit.log
+UnrealLearningKit/Saved/Logs/UnrealLearningKit_2.log
+UnrealLearningKit/Saved/Logs/UnrealLearningKit.log
+UnrealLearningKit/Saved/Logs/UnrealLearningKit_2.log
+*.filters
+*.user
+UnrealLearningKit/Saved/AutoScreenshot.png
+UnrealLearningKit/Saved/Logs/UnrealLearningKit.log
+UnrealLearningKit/Saved/Logs/UnrealLearningKit_2.log
+*.log
+*.vcxproj
